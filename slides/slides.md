@@ -50,6 +50,20 @@ To him the **gatekeeper** opens.
 
 [John 10:1-2 (ESV)](# "ref")
 
+>>>
++ sheepfold: treasure to protect 
+  + not enemy / rival 
++ when wrong/immature thinking/behavior, 
+  + attack the issue, not person 
+  + eg JJ disrespectful speech 
++ **threats**: thief: subterfuge
+  + robber: force / coercion 
++ **climb**: shortcuts 
+  + circumvent protective fences 
++ gatekeepers: not owner / shepherd 
+  + but recognize true shepherd 
++ eg internet filtering 
+
 ---
 “**Truly**, truly, I say to you, <br/>
 I am the **door** of the sheep. 
@@ -59,6 +73,11 @@ are thieves and robbers, <br/>
 but the sheep did not listen to them. 
 
 [John 10:7-8 (ESV)](# "ref")
+
+>>>
++ centrality of Christ to Christianity 
++ not morality, ethics, 
+  + tradition, social club 
 
 ---
 <!-- .slide: data-background="white" -->
@@ -74,6 +93,14 @@ When he has brought out all his own, <br/>
 he goes **before** them, 
 
 [John 10:3-4 (ESV)](# "ref")
+
+>>>
++ leads / go before 
++ teachers need assistant, or
+  + kids run wild 
++ but sheep stay near shepherd 
++ not about a destination 
+  + but just shepherd 
 
 ---
 and the sheep **follow** him, <br/>
