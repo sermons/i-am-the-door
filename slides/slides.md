@@ -21,24 +21,49 @@
 >>>
 + ch9: man born blind
   + that blind may see, seeing may be blinded
++ 10:1-5: allegorical **overview**
+  + 7-10: door
+  + 11-18: shepherd
 
 ---
 <!-- .slide: <%= bg("unsplash-NVnU0WIhC28-door_detail.jpg") %> class="outline" id="outline" -->
 ## The Door (Jn10)
-1. False Shepherds (v1-4)
-1. True Blessings (v4-10)
+1. False Shepherds [(v1-4)](# "ref")
+1. True Blessings [(v4-10)](# "ref")
+
+>>>
++ 2x "I am the **door**":
++ **discernment** friend vs foe
++ **promises** when we 
+  + follow the shepherd 
+  + through the door
 
 ---
 **Truly**, truly, I say to you, he who <br/>
-does not enter the sheepfold by the **door** <br/>
+does not enter the sheepfold by the door <br/>
 but **climbs** in by another way, <br/>
 that man is a **thief** and a robber. 
 
-But he who enters by the door <br/>
+But he who enters by the **door** <br/>
 is the **shepherd** of the sheep. <br/>
 To him the **gatekeeper** opens. 
 
 [John 10:1-2 (ESV)](# "ref")
+
+---
+“**Truly**, truly, I say to you, <br/>
+I am the **door** of the sheep. 
+
+All who came **before** me <br/>
+are thieves and robbers, <br/>
+but the sheep did not listen to them. 
+
+[John 10:7-8 (ESV)](# "ref")
+
+---
+<!-- .slide: data-background="white" -->
+# What **thieves** have tried <br/> to attack the **flock**?
+<!-- .element: class="r-fit-text" -->
 
 ---
 The sheep hear his **voice**, and <br/>
@@ -66,26 +91,22 @@ they do not know the **voice** of strangers.
 <!-- .element: class="r-fit-text" -->
 
 >>>
-Q: What thieves have tried to attack the flock?
 
 ---
-“**Truly**, truly, I say to you, <br/>
-I am the **door** of the sheep. 
-
-All who came **before** me <br/>
-are thieves and robbers, <br/>
-but the sheep did not listen to them. 
-
-[John 10:4-5 (ESV)](# "ref")
+<!-- .slide: <%= bg("unsplash-NVnU0WIhC28-door_detail.jpg") %> class="outline" id="outline" -->
+## The Door (Jn10)
+1. False Shepherds [(v1-4)](# "ref")
+1. **True Blessings** [(v4-10)](# "ref")
 
 ---
-I am the **door**. 
+I am the **door**.  <br/>
+If anyone **enters** by me,
 
-If anyone **enters** by me, <br/>
-he will be **saved** and will go **in and out** <br/>
+he will be **saved** <br/>
+and will go **in and out** <br/>
 and find **pasture**. 
 
-[John 10:4-5 (ESV)](# "ref")
+[John 10:9 (ESV)](# "ref")
 
 ---
 The **thief** comes only to <br/>
@@ -93,6 +114,8 @@ steal and kill and **destroy**.
 
 I came that they may have **life** <br/>
 and have it abundantly.
+
+[John 10:10 (ESV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
