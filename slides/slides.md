@@ -112,6 +112,13 @@ they do not know the **voice** of strangers.
 
 [John 10:4-5 (ESV)](# "ref")
 
+>>>
++ parent recognizes own baby's cries
++ recognize song by fav composer 
++ spend time in Word
++ transformed by renewing of mind 
+  + test + approve will 
+
 ---
 <!-- .slide: data-background="white" -->
 # How do I **know** <br/> the **voice** of Jesus?
@@ -134,6 +141,12 @@ and will go **in and out** <br/>
 and find **pasture**. 
 
 [John 10:9 (ESV)](# "ref")
+
+>>>
++ instead of climbing over fence 
++ or staying in pen
++ growth, maturity: nourishment 
+  + Abe seeking homeland 
 
 ---
 The **thief** comes only to <br/>
